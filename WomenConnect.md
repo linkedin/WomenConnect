@@ -309,4 +309,6 @@ Share results with key stakeholders via email or in person meeting. Discuss key 
 
 _In addition to sending the survey to attendees, you can also include a link to job opportunities as well as photos from the event_
 
+**Copyright 2017 LinkedIn Corporation**
+
 
