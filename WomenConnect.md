@@ -311,4 +311,6 @@ _In addition to sending the survey to attendees, you can also include a link to 
 
 **Copyright 2017 LinkedIn Corporation**
 
+**This work is licensed under a Creative Commons Attribution 4.0 International License**
+
 
